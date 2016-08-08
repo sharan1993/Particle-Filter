@@ -1,0 +1,6 @@
+This is an implementation of particle filter using Matlab.
+
+Files:
+particle_filter.m - script to run particle filter on data file
+magnets-data.txt - Data file used (hardcoded into script)
+Report-Particle Filter.pdf - PDF containing results
